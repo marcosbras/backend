@@ -24,4 +24,9 @@ git checkout -b nome-da-branch: Cria a branch e já pula (faz o checkout) para e
 ## Instalação golang
 https://go.dev/dl/
 
+## Tutoriais
+golang: 
+https://www.youtube.com/watch?v=E-VNDPIVhs4
+
+
 
