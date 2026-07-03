@@ -28,5 +28,18 @@ https://go.dev/dl/
 golang: 
 https://www.youtube.com/watch?v=E-VNDPIVhs4
 
+## Comandos go
+iniciar projeto: go mod init <nome-do-projeto>
+Rodar programa: go run main.go
+Build programa: go build 
+
+
+Gerar binário em outro sistema operacional:
+GOOS=windows go build
+
+## Particularidade do go
+Qualquer variável que eu declare eu sou obrigado a usa-la
+Funções podem retornar mais que um valor
+
 
 
